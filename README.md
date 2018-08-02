@@ -1,1 +1,1 @@
-A simple app of Kotlin with Springboot, Rest, Hibernate JPA
+A simple app of Kotlin with Springboot, Restful, Hibernate JPA
